@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Optare Solutions (Collaborator)**
 
-- 🌱 I’m currently learning **Angular, Javascript**
+- 🌱 I’m currently learning **Angular**
 
 - 🤝 I’m looking for help with **Frontend Development**
 
