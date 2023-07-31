@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundaysdev&label=Profile%20views&color=0e75b6&style=flat" alt="sundaysdev" /> </p>
 
-- 🔭 I’m currently working on **Optare Solutions (Collaborator)**
+- 🔭 Currently working on **Optare Solutions (Collaborator)**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 Currently learning **Angular**
 
 - 🤝 I’m looking for help with **Frontend Development**
-
-- 💬 Ask me about **Nothing, I'm a begginer 😕**
 
 - 📫 How to reach me **rafadelta29@gmail.com**
 
