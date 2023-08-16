@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm SundaysDev</h1>
+<h1 align="center">Hi 👋, I'm RafaTeixeiraDev</h1>
 <h2 align="center">Degree in Computer Science and Engineering</h2>
 <h3 align="center">A passionate Frontend Feveloper from Portugal | 20yo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sundaysdev&label=Profile%20views&color=0e75b6&style=flat" alt="sundaysdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafateixeiradev&label=Profile%20views&color=0e75b6&style=flat" alt="rafateixeiradev" /> </p>
 
 - 🔭 Currently working on **Optare Solutions (Collaborator)**
 
