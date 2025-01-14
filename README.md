@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RafaTeixeiraDev</h1>
 <h2 align="center">Degree in Computer Science and Engineering</h2>
-<h3 align="center">A passionate Frontend Feveloper from Portugal | 20yo</h3>
+<h3 align="center">A passionate Frontend Developer from Portugal | 21yo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafateixeiradev&label=Profile%20views&color=0e75b6&style=flat" alt="rafateixeiradev" /> </p>
 
@@ -10,13 +10,12 @@
 
 - 🤝 I’m looking for help with **Frontend Development**
 
-- 📫 How to reach me **rafadelta29@gmail.com**
+- 📫 How to reach me **rteixeira.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/22303476/sundaysdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sundaysdev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29195281/rafateixeiradev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="RafaTeixeiraDev" height="30" width="40" /></a>
 <a href="https://instagram.com/rafa.teixeira07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafa.teixeira07" height="30" width="40" /></a>
-<a href="https://dribbble.com/sundaysdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sundaysdev" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/455381834214277130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rafa#1353" height="30" width="40" /></a>
 </p>
 
