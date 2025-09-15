@@ -14,7 +14,7 @@
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-  <a href="https://portfolio-steel-alpha-11.vercel.app/" target="_blank" rel="noreferrer">
+  <a href="https://www.rafa-teixeira-dev.com/" target="_blank" rel="noreferrer">
     👉 Check out my portfolio
   </a>
 </p>
