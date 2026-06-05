@@ -12,13 +12,6 @@
 
 - 📫 How to reach me **rteixeira.work@gmail.com**
 
-<h3 align="left">Portfolio:</h3>
-<p align="left">
-  <a href="https://www.rafa-teixeira-dev.com/" target="_blank" rel="noreferrer">
-    👉 Check out my portfolio
-  </a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/29195281/rafateixeiradev" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="RafaTeixeiraDev" height="30" width="40" /></a>
