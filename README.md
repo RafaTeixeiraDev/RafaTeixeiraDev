@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm RafaTeixeiraDev</h1>
 <h2 align="center">MSc in Computer Science and Engineering</h2>
-<h3 align="center">A passionate Web Developer from Portugal | 22yo</h3>
+<h3 align="center">A passionate Web Developer from Portugal | 23yo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafateixeiradev&label=Profile%20views&color=0e75b6&style=flat" alt="rafateixeiradev" /> </p>
 
-- 🔭 Currently working on **Talkdesk (Software Engineer I)**
-
-- 🌱 Currently learning **Spring** and **React**
+- 🔭 Currently working on **Talkdesk (Software Engineer II)**
 
 - 🤝 I’m looking for help with **Web Development**
 
